@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="img/rockberpro-dev.png" alt="RockberPro" width="200">
+  <img src="img/rockberpro-play.png" alt="RockberPro Play" width="200">
 </p>
 
-<p align="center">Stable, battle-tested tools from my daily work, published for anyone to use.</p>
+<p align="center">Side quests, experiments and fun projects built just for the joy of it.</p>
 
 ## Projects
 
-| Project                                                              | Description                                                                                      |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [bash-lba](https://github.com/rockberpro-dev/bash-lba)               | Logical Bash Aliases: short, memorable bash aliases organized by category.                       |
-| [docker-lda](https://github.com/rockberpro-dev/docker-lda)           | Logical Docker Aliases: short, memorable Docker aliases organized by category.                   |
-| [git-lga](https://github.com/rockberpro-dev/git-lga)                 | Logical Git Aliases: a prefix-based shorthand system that turns Git commands into muscle memory. |
-| [systemd-lsa](https://github.com/rockberpro-dev/systemd-lsa)         | Logical Systemd Aliases: short, memorable systemd aliases organized by category.                 |
-| [bash-prompt](https://github.com/rockberpro-dev/bash-prompt)         | Effortlessly customize your Bash terminal                                                        |
-| [git-code-review](https://github.com/rockberpro-dev/git-code-review) | Review a branch as a single staged diff in your editor, instead of the web UI.                   |
+| Project                                                                    | Description                                                                                      |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [432herz](https://github.com/rockberpro-play/432herz)                      | Chrome V3 extension that allows playing YouTube videos in 432Hz.                                 |
+| [watchnow](https://github.com/rockberpro-play/watchnow)                    | Chrome V3 extension that strips YouTube Watch Later queue params so videos play standalone without auto-advancing. |
+| [subliminal-audio](https://github.com/rockberpro-play/subliminal-audio)    | Modulates audio into inaudible signal.                                                           |
+| [empyreus](https://github.com/rockberpro-play/empyreus)                    | Empyreus - subliminal audio generator.                                                           |
